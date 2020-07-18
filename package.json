@@ -1,0 +1,15 @@
+{
+  "name": "cake",
+  "version": "1.0.0",
+  "description": "A nice cake",
+  "main": "index.js",
+  "repository": "https://github.com/milkchocolate/cake",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
